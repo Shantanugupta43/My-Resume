@@ -1,6 +1,8 @@
 # My-Resume
 
+Click the link to download PDF -> [SHANTANU GUPTA.pdf](https://github.com/Shantanugupta43/My-Resume/files/9461468/SHANTANU.GUPTA.pdf)
 
 
-<img width="300" alt="Resumepage1" src="https://user-images.githubusercontent.com/99300527/187675020-206093c2-2a34-48b6-b835-89ec45e4a172.PNG">
-<img width="300" alt="Resumepage2" src="https://user-images.githubusercontent.com/99300527/187675035-4bcd1592-925c-46ed-ae8c-b6e0036666b0.PNG">
+
+
+![CV](https://user-images.githubusercontent.com/99300527/187677151-1c5e339a-89a8-48a6-81da-2bf929074874.png)
